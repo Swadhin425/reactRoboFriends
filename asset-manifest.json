@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactRoboFriends/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactRoboFriends/static/js/main.68e8d5a1.chunk.js",
+    "main.js.map": "/reactRoboFriends/static/js/main.68e8d5a1.chunk.js.map",
+    "runtime-main.js": "/reactRoboFriends/static/js/runtime-main.9441e0a5.js",
+    "runtime-main.js.map": "/reactRoboFriends/static/js/runtime-main.9441e0a5.js.map",
+    "static/js/2.12200b11.chunk.js": "/reactRoboFriends/static/js/2.12200b11.chunk.js",
+    "static/js/2.12200b11.chunk.js.map": "/reactRoboFriends/static/js/2.12200b11.chunk.js.map",
+    "index.html": "/reactRoboFriends/index.html",
+    "precache-manifest.96ab9b6b39603673c59f9e1076d2f534.js": "/reactRoboFriends/precache-manifest.96ab9b6b39603673c59f9e1076d2f534.js",
+    "service-worker.js": "/reactRoboFriends/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reactRoboFriends/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.12200b11.chunk.js.LICENSE.txt": "/reactRoboFriends/static/js/2.12200b11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9441e0a5.js",
+    "static/js/2.12200b11.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.68e8d5a1.chunk.js"
+  ]
+}
